@@ -18,6 +18,13 @@
 
 ## 🛠 Tech Stack & Tools
 
+### Software Development & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data-Science-orange?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ### Hardware & HDL
 ![Verilog](https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-HDL-purple?style=for-the-badge)
