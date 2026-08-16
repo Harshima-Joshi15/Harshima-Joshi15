@@ -1,6 +1,6 @@
 Hi there, I'm Harshima 👋
 
-  Software Developer | AI & ML Enthusiast
+  B.Tech Electronics & Communication Engineering | 3rd Year
 
 
 
@@ -16,34 +16,48 @@ Hi there, I'm Harshima 👋
 
 ## 👩‍💻 About Me
 
-- 🎓 Student exploring **Machine Learning**, **NLP**, and **Software Engineering**.
-- 💡 Working on applications using **LangChain**, **Python**, and **Smart Systems**.
-- 📍 Based in **India**.
+- 🎓 3rd Year **B.Tech ECE** student.
+- 💡 Passionate about **hardware systems**, **software development**, and **data science**.
+- 🔭 Currently exploring **Verilog**, **FPGA-based implementation**, **Python**, and learning **Data Science**.
+- 🌱 Learning **Cadence Virtuoso** and **RTL Design**.
+- 📍 **India**.
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
-### Languages & Frameworks
+### Hardware & HDL
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-HDL-purple?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-Xilinx_Vivado-red?style=for-the-badge)
+![Cadence](https://img.shields.io/badge/Cadence-Virtuoso-orange?style=for-the-badge)
+
+### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16707?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge)
+
+### Concepts
+![VLSI Design](https://img.shields.io/badge/VLSI-Design-blue?style=for-the-badge)
+![Signal Processing](https://img.shields.io/badge/Signal-Processing-green?style=for-the-badge)
+![Digital Logic](https://img.shields.io/badge/Digital-Logic-yellow?style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📰 Fake News Detection App
-> Built an application using NLP techniques to analyze and classify news articles.
+### 🚦 Smart Traffic Light FSM
+> Designed a Finite State Machine (FSM) based smart traffic controller using digital logic design principles to optimize vehicle flow.
 > 
-> **Tools:** Python | Machine Learning | NLP
+> **Tools:** Verilog | Digital Logic | FSM
+
+### 📰 Fake News Detection App
+> Built an application utilizing NLP and machine learning techniques to analyze and classify news articles.
+> 
+> **Tools:** Python | Data Science | NLP | Machine Learning
 
 ### 📌 Postify
-> A workflow automation tool designed for content management and posting.
+> Designed and built an automated post-generation and scheduling workflow tool.
 > 
-> **Tools:** Python | Web Development
-
-### 🚦 Smart Traffic FSM
-> Designed a Finite State Machine (FSM) based smart traffic controller to optimize traffic flow.
-> 
-> **Tools:** Digital Logic Design | Verilog / HDL
+> **Tools:** Python | Software Development
