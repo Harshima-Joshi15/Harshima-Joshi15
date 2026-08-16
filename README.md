@@ -1,4 +1,5 @@
-Hi there, I'm Harshima 👋
+# Hi there, I'm Harshima 👋
+
 
   B.Tech Electronics & Communication Engineering | 3rd Year
 
@@ -18,8 +19,8 @@ Hi there, I'm Harshima 👋
 
 - 🎓 3rd Year **B.Tech ECE** student.
 - 💡 Passionate about **hardware systems**, **software development**, and **data science**.
-- 🔭 Currently exploring **Verilog**, **FPGA-based implementation**, **Python**, and learning **Data Science**.
-- 🌱 Learning **Cadence Virtuoso** and **RTL Design**.
+- 🔭 Currently exploring **Verilog**, **FPGA-based implementation**, and **Python**.
+- 🌱 Learning **Data Science**, **Cadence Virtuoso**, and **RTL Design**.
 - 📍 **India**.
 
 ---
@@ -32,16 +33,16 @@ Hi there, I'm Harshima 👋
 ![FPGA](https://img.shields.io/badge/FPGA-Xilinx_Vivado-red?style=for-the-badge)
 ![Cadence](https://img.shields.io/badge/Cadence-Virtuoso-orange?style=for-the-badge)
 
-### Programming & Scripting
+### Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e16707?style=for-the-badge)
-![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge)
 
 ### Concepts
 ![VLSI Design](https://img.shields.io/badge/VLSI-Design-blue?style=for-the-badge)
 ![Signal Processing](https://img.shields.io/badge/Signal-Processing-green?style=for-the-badge)
 ![Digital Logic](https://img.shields.io/badge/Digital-Logic-yellow?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data-Science-orange?style=for-the-badge)
 
 ---
 
