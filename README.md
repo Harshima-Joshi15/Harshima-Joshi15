@@ -1,17 +1,7 @@
-Hi there, I'm Harshima 👋
-
-
-  B.Tech Electronics & Communication Engineering | 3rd Year
-
-
-
-  
+<h1 align="center"> Hi there, I'm Harshima 👋 </h1>
     
   
-  
-    
-  
-  
+  <p align="center"><i> B.Tech Electronics & Communication Engineering | 3rd Year </i></p>
 
 
 ---
