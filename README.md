@@ -1,12 +1,16 @@
- Hi there, I'm Harshima 👋
+Hi there, I'm Harshima 👋
 
 
   B.Tech Electronics & Communication Engineering | 3rd Year
+
+
+
   
     
   
   
     
+  
   
 
 
@@ -30,7 +34,7 @@
 ![FPGA](https://img.shields.io/badge/FPGA-Xilinx_Vivado-red?style=for-the-badge)
 ![Cadence](https://img.shields.io/badge/Cadence-Virtuoso-orange?style=for-the-badge)
 
-### Programming & Data Science
+### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e16707?style=for-the-badge)
