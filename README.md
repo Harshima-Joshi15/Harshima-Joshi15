@@ -51,10 +51,9 @@
 > 
 > **Tools:** Verilog | Digital Logic | FSM
 
-### 📰 Fake News Detection App
-> Built an application utilizing NLP and machine learning techniques to analyze and classify news articles.
-> 
-> **Tools:** Python | Data Science | NLP | Machine Learning
+### 🔍 TruthLens — Real-Time News Verification Engine
+Designed and built a real-time credibility engine that cross-references claims and news links against live RSS news feeds and tier-1 verified media networks.
+**Tools:** Python | Streamlit | Web Scraping | Feedparser | API Integration
 
 ### 📌 Postify
 > Designed and built an automated post-generation and scheduling workflow tool.
