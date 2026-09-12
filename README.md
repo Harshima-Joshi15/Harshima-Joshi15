@@ -43,12 +43,12 @@
 ![Data Science](https://img.shields.io/badge/Data-Science-orange?style=for-the-badge)
 
 ---
-## 🔭 Currently Working On
+## 🛠️ Currently Working On
 
 - 💻 Strengthening my skills in **Verilog, Digital Logic, FPGA, and Python**.
 - 📊 Building projects in **Data Science and Machine Learning**.
 - 🧠 Exploring **VLSI and hardware-software integration**.
-- 🇩🇪 Learning **German (A1 basics)**.
+- 🗣️ Learning **German (A1 basics)**.
 ---
 
 ## 🚀 Featured Projects
@@ -76,3 +76,16 @@
 > Designed and built an automated post-generation and scheduling workflow tool.
 >
 > **Tools:** Python | Software Development
+---
+
+## 🏆 Achievements
+
+- 🥇 **20+ Hackathons:** Participated in 20+ hackathons and qualified through multiple rounds across different competitions.
+
+- 🏆 **Smart India Hackathon (SIH):** Cleared the college-level screening for SIH and qualified for multiple SIH competitions.
+
+- 📚 **Research:** Authored/co-authored **4 research papers**, including **3 published papers** and **1 recently submitted conference paper**.
+
+- 💻 **Cadence Certification:** Completed a **Cadence training/certification program** during the summer, gaining hands-on experience with VLSI design tools.
+
+- 🎓 **Academic Performance:** Achieved **9.23 SGPA** with an overall **8.7 CGPA**.
