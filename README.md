@@ -43,6 +43,14 @@
 ![Data Science](https://img.shields.io/badge/Data-Science-orange?style=for-the-badge)
 
 ---
+## 🔭 Currently Working On
+
+- 💻 Strengthening my skills in **Verilog, Digital Logic, FPGA, and Python**.
+- 📊 Building projects in **Data Science and Machine Learning**.
+- 🧠 Exploring **VLSI and hardware-software integration**.
+- 🇩🇪 Learning **German (A1 basics)**.
+---
+
 ## 🚀 Featured Projects
 
 ### 👥 Group Projects
