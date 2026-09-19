@@ -66,7 +66,7 @@
 >
 > **Tools:** Python | Machine Learning | Physics-Informed ML | Anomaly Detection | Semiconductor Reliability
 
-### 🚦 [Smart Traffic Light FSM](https://github.com/Harshima-Joshi15/Smart_Traffic_FSM)
+### 🚦 [Smart Traffic Light FSM](https://github.com/the-ethereal12/Smart_Traffic_FSM)
 > Designed a Finite State Machine (FSM) based smart traffic controller using digital logic design principles to optimize vehicle flow.
 >
 > **Tools:** Verilog | Digital Logic | FSM
