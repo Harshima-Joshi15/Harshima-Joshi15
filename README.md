@@ -55,7 +55,7 @@
 
 ### 👥 Group Projects
 
-### 🧪 [AyuSense — AI-Powered Electronic Tongue](https://github.com/Harshima-Joshi15/AayuSense-AI-ETongue)
+### 🧪 [🧪 AyuSense — AI-Powered Electronic Tongue](https://github.com/umeshpandeysh/AayuSense-AI-ETongue)
 > Developed as a collaborative group project for herbal quality assessment using sensor analytics and machine learning.
 >
 > **Tools:** Python | Machine Learning | Sensor Analytics | ESP32
