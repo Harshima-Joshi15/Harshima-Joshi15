@@ -55,24 +55,24 @@
 
 ### 👥 Group Projects
 
-### 🧪 AyuSense — AI-Powered Electronic Tongue
+### 🧪 [AyuSense — AI-Powered Electronic Tongue](https://github.com/Harshima-Joshi15/AayuSense-AI-ETongue)
 > Developed as a collaborative group project for herbal quality assessment using sensor analytics and machine learning.
 >
 > **Tools:** Python | Machine Learning | Sensor Analytics | ESP32
 
-### 🚦 Smart Traffic Light FSM
+### 🚦 [Smart Traffic Light FSM](https://github.com/Harshima-Joshi15/Smart_Traffic_FSM)
 > Designed a Finite State Machine (FSM) based smart traffic controller using digital logic design principles to optimize vehicle flow.
 >
 > **Tools:** Verilog | Digital Logic | FSM
 
 ### 👩‍💻 My Individual Projects
 
-### 🔍 TruthLens — Real-Time News Verification Engine
+### 🔍 [TruthLens — Real-Time News Verification Engine](https://github.com/Harshima-Joshi15/truthlens-app)
 > Designed and built a real-time credibility engine that cross-references claims and news links against live RSS news feeds and tier-1 verified media networks.
 >
 > **Tools:** Python | Streamlit | Web Scraping | Feedparser | API Integration
 
-### 📌 Postify
+### 📌 [Postify](https://github.com/Harshima-Joshi15/postify)
 > Designed and built an automated post-generation and scheduling workflow tool.
 >
 > **Tools:** Python | Software Development
