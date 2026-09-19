@@ -62,9 +62,9 @@
 
 ### 🔬 [Predicta — Physics-Informed ML Platform](https://github.com/umeshpandeysh/predicta-26)
 
-Developed as a collaborative group project for semiconductor telemetry analysis, anomaly detection, failure prediction, and predictive reliability screening using physics-informed machine learning.
-
-**Tools:** Python | Machine Learning | Physics-Informed ML | Anomaly Detection | Semiconductor Reliability
+>Developed as a collaborative group project for semiconductor telemetry analysis, anomaly detection, failure prediction, and predictive reliability screening using physics-informed machine learning.
+>
+> **Tools:** Python | Machine Learning | Physics-Informed ML | Anomaly Detection | Semiconductor Reliability
 
 ### 🚦 [Smart Traffic Light FSM](https://github.com/Harshima-Joshi15/Smart_Traffic_FSM)
 > Designed a Finite State Machine (FSM) based smart traffic controller using digital logic design principles to optimize vehicle flow.
