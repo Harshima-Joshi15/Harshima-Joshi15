@@ -50,38 +50,49 @@
 - 🧠 Exploring **VLSI and hardware-software integration**.
 - 🗣️ Learning **German (A1 basics)**.
 ---
-
 ## 🚀 Featured Projects
 
 ### 👥 Group Projects
 
 ### 🧪 [AyuSense — AI-Powered Electronic Tongue](https://github.com/umeshpandeysh/AayuSense-AI-ETongue)
+
 > Developed as a collaborative group project for herbal quality assessment using sensor analytics and machine learning.
 >
 > **Tools:** Python | Machine Learning | Sensor Analytics | ESP32
 
 ### 🔬 [Predicta — Physics-Informed ML Platform](https://github.com/umeshpandeysh/predicta-26)
 
->Developed as a collaborative group project for semiconductor telemetry analysis, anomaly detection, failure prediction, and predictive reliability screening using physics-informed machine learning.
+> Developed as a collaborative group project for semiconductor telemetry analysis, anomaly detection, failure prediction, and predictive reliability screening using physics-informed machine learning.
 >
 > **Tools:** Python | Machine Learning | Physics-Informed ML | Anomaly Detection | Semiconductor Reliability
 
 ### 🚦 [Smart Traffic Light FSM](https://github.com/the-ethereal12/Smart_Traffic_FSM)
+
 > Designed a Finite State Machine (FSM) based smart traffic controller using digital logic design principles to optimize vehicle flow.
 >
 > **Tools:** Verilog | Digital Logic | FSM
 
 ### 👩‍💻 My Individual Projects
 
+### ⚡ [RISC-V Integrated Hardware Accelerator for NTT-Based Post-Quantum Cryptography](https://github.com/Harshima-Joshi15/riscv-ntt-accelerator)
+
+> Designed an RTL-based Number Theoretic Transform (NTT) accelerator for post-quantum cryptography, featuring a 256-point iterative transform engine, modular arithmetic units, a memory-mapped control interface, and verification using Python reference models and stress-test vectors.
+>
+> **Tools:** Verilog | RTL Design | RISC-V | Digital Design | NTT | Post-Quantum Cryptography | Python Verification
+
 ### 🔍 [TruthLens — Real-Time News Verification Engine](https://github.com/Harshima-Joshi15/truthlens-app)
+
 > Designed and built a real-time credibility engine that cross-references claims and news links against live RSS news feeds and tier-1 verified media networks.
 >
 > **Tools:** Python | Streamlit | Web Scraping | Feedparser | API Integration
 
 ### 📌 [Postify](https://github.com/Harshima-Joshi15/postify)
+
 > Designed and built an automated post-generation and scheduling workflow tool.
 >
 > **Tools:** Python | Software Development
+
+
 ---
 
 ## 🏆 Achievements
